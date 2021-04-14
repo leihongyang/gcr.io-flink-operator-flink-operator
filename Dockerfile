@@ -1,1 +1,1 @@
-FROM gcr.io/flink-operator/flink-operator:v1beta1-6
+FROM gcr.io/flink-operator/flink-operator:0.2.0
